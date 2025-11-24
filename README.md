@@ -36,5 +36,5 @@ This project requires **Node.js** installed on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK_HERE>
+git clone https://github.com/Ritee17/student-result-app.git
 cd student-result-app
