@@ -17,7 +17,7 @@ body {
   margin: 0;
   padding: 20px;
   /* STATIC BACKGROUND - No Animation */
-  background: linear-gradient(135deg, #23a6d5 0%, #23d5ab 100%); 
+  background-color: #0f172a;
   min-height: 100vh;
   color: var(--text-main);
   display: flex;
